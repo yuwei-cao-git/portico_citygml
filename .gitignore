@@ -1,0 +1,4 @@
+# models and databases
+*.pkl
+*.txt
+*.TXT
