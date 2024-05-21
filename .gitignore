@@ -6,3 +6,4 @@
 .DS_Store
 *.mtl
 *.obj
+*temp/
