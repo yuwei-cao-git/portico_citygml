@@ -4,3 +4,5 @@
 *.TXT
 *.xyz
 .DS_Store
+*.mtl
+*.obj
