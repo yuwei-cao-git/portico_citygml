@@ -3,6 +3,4 @@
 *.txt
 *.TXT
 *.xyz
-*DS_Store
-
-temp/
+.DS_Store
